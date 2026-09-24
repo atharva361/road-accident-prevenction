@@ -1,0 +1,6 @@
+{
+  "name": "AcciGuide AI - Road Accident Legal & Insurance Procedural Copilot",
+  "description": "Immediate legal procedures, evidence collection checklists, insurance claim guides, and AI-assisted official legal support after a motor vehicle accident.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
